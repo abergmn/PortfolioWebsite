@@ -32,3 +32,6 @@ A personal portfolio website showcasing projects, contact info, and a basic admi
     ```
     Visit http://localhost:8000/
     ```
+
+## Recording/Showcase
+<video src="files/reportrecording.webm" controls>
