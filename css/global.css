@@ -48,7 +48,8 @@ footer {
 
 .mainContent {
     margin: 45px auto 0 auto;
-    max-width: 800px;
+    /*max-width: 800px;*/
+    max-width: 645px;
     padding: 20px;
     background-color: #d3d3d3;
 }
